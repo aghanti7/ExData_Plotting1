@@ -1,1 +1,1 @@
-Repository for assignments of the Exploratory Data Analysis course by JHU on Coursera
+Repository for Programming Assignments for Exploratory Data Analysis on Coursera (JHU)
